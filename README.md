@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kohtaroyamakawa
-- 👀 I’m interested in condensed matter physics experiment, theory ,and computations.
+- 👀 I’m interested in condensed matter physics experiment, theory, and computations.
 - 🌱 I’m currently learning how to navigate graduate school!
 - 💞️ I’m looking to collaborate on finding better ways to simulate and study topological systems.
 - 📫 How to reach me: kohtaro_yamakawa@berkeley.edu
